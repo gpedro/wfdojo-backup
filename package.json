@@ -1,0 +1,14 @@
+{
+  "name": "wfdojo-s01e01",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp",
+    "test": "npm start test"
+  },
+  "dependencies": {
+    "gulp": "3.8.10",
+    "gulp-jasmine": "1.0.1",
+    "jasmine": "2.1.1"
+  }
+}
