@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "scripts": {
-    "start": "./node_modules/.bin/gulp",
-    "test": "npm start test"
+    "test": "gulp test"
   },
   "dependencies": {
     "gulp": "3.8.10",

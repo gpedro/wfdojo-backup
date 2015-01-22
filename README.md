@@ -1,4 +1,4 @@
-# Backup task (wfdojo-s01e01)
+# Backup task (wfdojo-s01e01) [![Build Status](https://travis-ci.org/dhyegofernando/backup.svg?branch=master)](https://travis-ci.org/dhyegofernando/backup)
 
 This is a [task](http://dojopuzzles.com/problemas/exibe/encontrando-arquivos-duplicados/) built in a experimental coding dojo.
 
